@@ -1,6 +1,4 @@
 # Exploratory-Data-Analysis-European-Values
-📊 European Values Survey – Análise Exploratória de Dados
-
 📌 Descrição
 
 Este projeto consiste numa análise exploratória de dados (EDA) aplicada ao European Values Survey, com foco na comparação entre Portugal e Espanha. O trabalho envolveu um processo estruturado de limpeza, transformação e análise estatística de dados provenientes de inquéritos sociais.
