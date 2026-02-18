@@ -10,58 +10,59 @@ O projeto foi desenvolvido no âmbito da unidade curricular de Análise Explorat
 
 🎯 Objetivos
 
-Preparar e limpar dados brutos provenientes de inquéritos sociais.
+  - Preparar e limpar dados brutos provenientes de inquéritos sociais.
 
-Tratar valores omissos e corrigir inconsistências.
+  - Tratar valores omissos e corrigir inconsistências.
 
-Recodificar variáveis numéricas em variáveis categóricas interpretáveis.
+  - Recodificar variáveis numéricas em variáveis categóricas interpretáveis.
 
-Criar novas variáveis derivadas (ex: idade a partir do ano de nascimento).
+  - Criar novas variáveis derivadas (ex: idade a partir do ano de nascimento).
 
-Realizar análises descritivas univariadas e bivariadas.
+  - Realizar análises descritivas univariadas e bivariadas.
 
-Explorar diferenças socioculturais entre Portugal e Espanha.
+  - Explorar diferenças socioculturais entre Portugal e Espanha.
 
 🧪 Metodologia
 1️⃣ Preparação e Limpeza (Excel)
 
-Substituição de valores omissos.
+  - Substituição de valores omissos.
 
-Recodificação com VLOOKUP e HLOOKUP.
+  - Recodificação com VLOOKUP e HLOOKUP.
 
-Criação de regras de validação de dados.
+  - Criação de regras de validação de dados.
 
-Correção de inconsistências (ex: valores inválidos).
+  - Correção de inconsistências (ex: valores inválidos).
 
-Construção de tabelas de frequências.
+  - Construção de tabelas de frequências.
 
-Criação de tabelas dinâmicas e cruzamentos.
+  - Criação de tabelas dinâmicas e cruzamentos.
 
 2️⃣ Análise Estatística (Jamovi)
 
-Estatística descritiva (média, mediana, desvio padrão, percentis).
+  - Estatística descritiva (média, mediana, desvio padrão, percentis).
 
-Análise univariada e bivariada.
+  - Análise univariada e bivariada.
 
-Cruzamentos entre variáveis (ex: Country × Work).
+  - Cruzamentos entre variáveis (ex: Country × Work).
 
 Visualização gráfica com Survey Plots e gráficos de barras.
 
 3️⃣ Processamento Complementar (R)
 
-Tratamento adicional de dados.
+  - Tratamento adicional de dados.
 
-Organização do relatório técnico.
+  - Organização do relatório técnico.
 
-Exportação em formato HTML e PDF.
+  - Exportação em formato HTML e PDF.
+
 
 🛠 Ferramentas Utilizadas
 
-Microsoft Excel
+  - Microsoft Excel
 
-Jamovi
+  - Jamovi
 
-R / R Markdown
+  - R / R Markdown
 
 📂 Estrutura do Repositório
 AED_CP7_2.xlsx                 → Base de dados tratada
@@ -71,14 +72,14 @@ Relatorio_Tecnico_Versao_Final.pdf → Relatório final em PDF
 
 📊 Competências Demonstradas
 
-Limpeza e transformação de dados reais.
+ - Limpeza e transformação de dados reais.
 
-Implementação de regras de validação.
+ - Implementação de regras de validação.
 
-Análise estatística descritiva.
+ - Análise estatística descritiva.
 
-Cruzamento de variáveis categóricas e numéricas.
+ - Cruzamento de variáveis categóricas e numéricas.
 
-Visualização e interpretação de padrões sociais.
+ - Visualização e interpretação de padrões sociais.
 
-Integração de múltiplas ferramentas analíticas.
+ - Integração de múltiplas ferramentas analíticas.
