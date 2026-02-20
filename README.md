@@ -4,7 +4,7 @@
 
 Este projeto consiste numa análise exploratória de dados (EDA) aplicada ao European Values Survey, com foco na comparação entre Portugal e Espanha. O trabalho envolveu um processo estruturado de limpeza, transformação e análise estatística de dados provenientes de inquéritos sociais.
 
-O projeto foi desenvolvido no âmbito da unidade curricular de Análise Exploratória de Dados (Licenciatura em Ciência de Dados).
+O projeto foi desenvolvido no âmbito da unidade curricular de Análise Exploratória de Dados, tendo sido classificado em **17 valores**.
 
 ---
 
